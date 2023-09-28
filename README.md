@@ -2,6 +2,8 @@
 
 A app Website made with React.js Framework.
 
+An application that brings together more than 60 inhabitants of the world of Rick and Morty with their respective Type, Location and Dimension.
+
 # Demo
 https://stoic-fermat-c68da8.netlify.app/
 
