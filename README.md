@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Rick And Morty
 
 [![Captura-de-pantalla-44.png](https://i.postimg.cc/JnGDwjRZ/Captura-de-pantalla-44.png)](https://postimg.cc/LYF6LYY8)
 
