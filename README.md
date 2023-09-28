@@ -1,6 +1,6 @@
 # Rick And Morty
 
-A Ecommerce Website made with React.js Framework.
+A app Website made with React.js Framework.
 
 # Demo
 https://stoic-fermat-c68da8.netlify.app/
